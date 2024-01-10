@@ -10,6 +10,8 @@ Or `brew tap beforerr/beforerr` and then `brew install <formula>`.
 
 - skteditor: ISTP CDF Skeleton Editor
 - Autoplot: Interactive browser for data on the web
+- SSC 4D Orbit Viewer
+- [DeskCover Pro](https://noteifyapp.com/deskcover/): Isolate frontmost window, making your Desktop less distracting
 
 ## Documentation
 
