@@ -4,7 +4,7 @@ cask "deskcover-pro" do
   
   url "https://noteifyapp.com/download/DeskCoverPro.dmg"
   name "deskcover-pro"
-  desc "Increase Productivity, Make your Desktop less distracting"
+  desc "Isolate frontmost window, making your Desktop less distracting"
   homepage "https://noteifyapp.com/deskcover/"
 
   app "DeskCover Pro.app"
