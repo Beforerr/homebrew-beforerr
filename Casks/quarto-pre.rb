@@ -1,6 +1,6 @@
 cask "quarto-pre" do
-    version "1.5.33"
-    sha256 "8500a7385d91eaa475b90d18ea903ba7859c4c7e5dc637f55ac29807ecd84bce"
+    version "1.5.37"
+    sha256 "ab6a44ca5fbf1e1e990bd90c9c5a097d7edb141057182a6f27b646074eea3d5c"
   
     url "https://github.com/quarto-dev/quarto-cli/releases/download/v#{version}/quarto-#{version}-macos.pkg",
         verified: "github.com/quarto-dev/quarto-cli/"
@@ -23,4 +23,3 @@ cask "quarto-pre" do
   
     zap trash: "~/Library/Caches/quarto"
   end
-  
