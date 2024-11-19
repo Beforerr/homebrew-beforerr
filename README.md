@@ -8,6 +8,7 @@ Or `brew tap beforerr/beforerr` and then `brew install <formula>`.
 
 ## Featured Casks
 
+- [Quarto Pre-release](https://quarto.org): Quarto Preview
 - [skteditor](https://spdf.gsfc.nasa.gov/skteditor): ISTP CDF Skeleton Editor
 - [Autoplot](http://autoplot.org): Interactive browser for data on the web
 - [SSC 4D Orbit Viewer](https://sscweb.gsfc.nasa.gov/tipsod/)
