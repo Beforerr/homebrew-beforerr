@@ -15,8 +15,6 @@ cask "quarto-pre" do
     end
   end
 
-  depends_on macos: ">= :el_capitan"
-
   pkg "quarto-#{version}-macos.pkg"
 
   uninstall pkgutil: "org.rstudio.quarto"
